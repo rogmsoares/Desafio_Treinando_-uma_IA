@@ -2,9 +2,10 @@
 Desafio - Treinando uma IA de Aprendizagem
 
 - O tema e o objetivo, na frase que você escreveu no começo;
-Ensinar lógica de programação em Python para estudantes universitários de primeiro ano.
+- Ensinar lógica de programação em Python para estudantes universitários de primeiro ano.
 
 - As fontes que entraram, e por que você confia nelas;
+
 Fonte de Vídeo:
 https://www.youtube.com/watch?v=Mim6nnkdOto&list=PLHz_AreHm4dn_RXXoa3Ameh77f95Hgwv3
 https://www.youtube.com/watch?v=BzxUTyJgNsE
